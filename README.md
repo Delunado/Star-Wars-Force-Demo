@@ -5,4 +5,4 @@ This is a demo made using Unity, where you can try some Star Wars Force Powers a
 
 You can play it using keyboard or controller. The instructions are inside the demo, and you can see them pressing Escape or Controller Back. 
 
-Follow me on Twitter! https://twitter.com/Delunad0 | TEA Team: https://twitter.com/TEAteam_
+Follow me on Twitter! https://twitter.com/Delunad0 | TEA Team: @TEAteam_
